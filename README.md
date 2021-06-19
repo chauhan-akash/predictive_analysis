@@ -7,5 +7,7 @@ The topics covered in this repository are :
  - Compare classifiers & treating imbalanced data in python - sklearn, xgboost & imblearn
  - Compare regression models in python - sklearn, xgboost
  - Language prediction using Multinomial Naive Bayes classifier in python - sklearn, CountVectorizer
+ - Multiple Linear Regression in python - sklearn
+
   
  The datasets used in the workbooks are placed in the folder - data
