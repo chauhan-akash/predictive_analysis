@@ -8,6 +8,7 @@ The topics covered in this repository are :
  - Compare regression models in python - sklearn, xgboost
  - Language prediction using Multinomial Naive Bayes classifier in python - sklearn, CountVectorizer
  - Multiple Linear Regression in python - sklearn
+ - Logistic Regression using gradient descent algo - numpy, gradient descent, decision boundary
 
   
  The datasets used in the workbooks are placed in the folder - data
